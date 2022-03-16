@@ -3,17 +3,19 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"net/http"
 
 	gtranslate "github.com/miphik/google-translate"
 )
 
 func main() {
+	translator := gtranslate.NewTranslator(&http.Client{})
 	value := gtranslate.Translate{
 		Text: "Halo Dunia",
 		// From: "id",
 		To: "en",
 	}
-	translated, err := gtranslate.Translator(value)
+	translated, err := translator.Translator(value)
 	if err != nil {
 		panic(err)
 	} else {
