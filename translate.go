@@ -13,15 +13,15 @@ type Translate struct {
 	To   string `json:"to"`
 }
 
-type translator struct {
+type Translator struct {
 	httpClient *http.Client
 }
 
-func NewTranslator(httpClient *http.Client) translator {
-	return translator{httpClient: httpClient}
+func NewTranslator(httpClient *http.Client) Translator {
+	return Translator{httpClient: httpClient}
 }
 
-func (t translator) Translator(value Translate) (*translated, error) {
+func (t Translator) Translator(value Translate) (*Translated, error) {
 	var (
 		text string
 		from = "auto"

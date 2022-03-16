@@ -37,7 +37,7 @@ func extract(key string, value string) string {
 	return replace[:len(replace)-1]
 }
 
-func (t translator) check() (*req, error) {
+func (t Translator) check() (*req, error) {
 	var (
 		err     error
 		client  = t.httpClient
@@ -76,29 +76,29 @@ func (t translator) check() (*req, error) {
 	}, nil
 }
 
-type translateFromLanguage struct {
+type TranslateFromLanguage struct {
 	DidYouMean bool   `json:"did_you_mean"`
 	Iso        string `json:"iso"`
 }
 
-type translateFromText struct {
+type TranslateFromText struct {
 	AutoCorrected bool    `json:"auto_corrected"`
 	Value         *string `json:"value"`
 	DidYouMean    bool    `json:"did_you_mean"`
 }
 
-type translateFrom struct {
-	Language translateFromLanguage `json:"language"`
-	Text     translateFromText     `json:"text"`
+type TranslateFrom struct {
+	Language TranslateFromLanguage `json:"language"`
+	Text     TranslateFromText     `json:"text"`
 }
 
-type translated struct {
+type Translated struct {
 	Text          string        `json:"text"`
 	Pronunciation *string       `json:"pronunciation"`
-	From          translateFrom `json:"from"`
+	From          TranslateFrom `json:"from"`
 }
 
-func (t translator) translateV1(text string, from string, to string) (*translated, error) {
+func (t Translator) translateV1(text string, from string, to string) (*Translated, error) {
 	var (
 		rpcId   = "MkEWBc"
 		err     error
@@ -238,15 +238,15 @@ func (t translator) translateV1(text string, from string, to string) (*translate
 	} else {
 		pronunciation = nil
 	}
-	return &translated{
+	return &Translated{
 		Text:          textTo,
 		Pronunciation: pronunciation,
-		From: translateFrom{
-			Language: translateFromLanguage{
+		From: TranslateFrom{
+			Language: TranslateFromLanguage{
 				DidYouMean: DidYouMeanLanguage,
 				Iso:        textIso,
 			},
-			Text: translateFromText{
+			Text: TranslateFromText{
 				AutoCorrected: AutoCorrected,
 				Value:         AutoCorrectedValue,
 				DidYouMean:    DidYouMean,
