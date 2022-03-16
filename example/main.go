@@ -3,19 +3,20 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	gtranslate "github.com/gilang-as/google-translate"
+
+	gtranslate "github.com/miphik/google-translate"
 )
 
-func main()  {
+func main() {
 	value := gtranslate.Translate{
 		Text: "Halo Dunia",
-		//From: "id",
+		// From: "id",
 		To: "en",
 	}
 	translated, err := gtranslate.Translator(value)
 	if err != nil {
 		panic(err)
-	}else{
+	} else {
 		prettyJSON, err := json.MarshalIndent(translated, "", "\t")
 		if err != nil {
 			panic(err)

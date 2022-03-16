@@ -1,4 +1,4 @@
-module github.com/gilang-as/google-translate
+module github.com/miphik/google-translate
 
 go 1.17
 
