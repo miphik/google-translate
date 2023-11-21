@@ -11,9 +11,9 @@ import (
 func main() {
 	translator := gtranslate.NewTranslator(&http.Client{})
 	value := gtranslate.Translate{
-		Text: "Halo Dunia",
+		Text: "stood out",
 		// From: "id",
-		To: "en",
+		To: "ru",
 	}
 	translated, err := translator.Translator(value)
 	if err != nil {

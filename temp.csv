@@ -1,0 +1,637 @@
+key,en,id,ko,sr,ar,hr,az,hy,nl,el,ja,hu,cs,ro,vi,uk,zh,pt,pl,tr,it,es,fr,de,ru
+home_tab.new_features_text_3_0_0,"**New Features:**
+- **Reading Experience:**
+  - Added the ability to highlight the last translated word.
+  - Clickable images in books.
+  - Option to choose how words are highlighted in the text: underline, background, or text color.
+  - Ability to translate and copy quotes.
+  - Added the ability to copy selected text in the reader.
+
+- **Added Native Languages:**
+  - Korean
+  - Indonesian
+  - Serbian
+
+- **Interface:**
+  - Some optimizations of the tablet version layout.
+  - Enabled screen rotation for all devices.
+  - Ability to choose custom colors in the reader settings.
+
+- **Improved Translations:**
+  - Translation of GPT chat etymology to native language (in translation settings).
+
+- **Book Information:**
+  - Publication year is displayed on the book card (if available).
+
+**Bug Fixes:**
+- Improved accuracy of tracking reading duration and session time.
+- Fixed issues with the ""rate us"" function in the profile section.","**Fitur Baru:**
+- **Pengalaman Membaca:**
+  - Menambahkan kemampuan untuk menyoroti kata yang terakhir diterjemahkan.
+  - Gambar yang dapat diklik dalam buku.
+  - Opsi untuk memilih bagaimana kata-kata disoroti dalam teks: garis bawah, latar belakang, atau warna teks.
+  - Kemampuan untuk menerjemahkan dan menyalin kutipan.
+  - Menambahkan kemampuan untuk menyalin teks yang dipilih dalam pembaca.
+
+- **Menambahkan Bahasa Asli:**
+  - Korea
+  - Indonesia
+  - Serbia
+
+- **Antarmuka:**
+  - Beberapa optimalisasi tata letak versi tablet.
+  - Mengaktifkan rotasi layar untuk semua perangkat.
+  - Kemampuan untuk memilih warna kustom dalam pengaturan pembaca.
+
+- **Terjemahan yang Ditingkatkan:**
+  - Terjemahan etimologi obrolan GPT ke bahasa asli (dalam pengaturan terjemahan).
+
+- **Informasi Buku:**
+  - Tahun publikasi ditampilkan pada kartu buku (jika tersedia).
+
+**Perbaikan Bug:**
+- Meningkatkan akurasi pelacakan durasi membaca dan waktu sesi.
+- Memperbaiki masalah dengan fungsi ""beri kami penilaian"" di bagian profil.""""""","**새로운 기능:**
+- **독서 경험:**
+  - 마지막으로 번역된 단어를 강조하는 기능 추가.
+  - 책 내의 이미지를 클릭할 수 있습니다.
+  - 텍스트 내에서 단어를 강조하는 방법 선택: 밑줄, 배경, 또는 텍스트 색상.
+  - 인용구를 번역하고 복사하는 기능.
+  - 독서기에서 선택한 텍스트를 복사하는 기능 추가.
+
+- **추가된 모국어:**
+  - 한국어
+  - 인도네시아어
+  - 세르비아어
+
+- **인터페이스:**
+  - 태블릿 버전 레이아웃의 일부 최적화.
+  - 모든 기기에 대한 화면 회전 기능 활성화.
+  - 독서기 설정에서 사용자 정의 색상을 선택할 수 있는 기능.
+
+- **개선된 번역:**
+  - GPT 채팅 어원을 모국어로 번역 (번역 설정에서).
+
+- **책 정보:**
+  - 책 카드에 출판 연도가 표시됩니다 (가능한 경우).
+
+**버그 수정:**
+- 독서 시간과 세션 시간 추적의 정확성 향상.
+- 프로필 섹션에서 ""우리를 평가해주세요"" 기능과 관련된 문제 수정.","**Нове функције:**
+- **Читање:**
+  - Додата је могућност истицања последње преведене речи.
+  - Слике на које се може кликнути у књигама.
+  - Могућност избора начина избора речи у тексту: подвлачење, позадина или боја текста.
+  - Могућност превођења и копирања цитата.
+  - Додата је могућност копирања изабраног текста у читачу.
+
+- **Додати изворни језици:**
+  - Корејски
+   Индонезијски
+  - Српски
+
+- **Интерфејс:**
+  - Неке оптимизације верзије таблета.
+  - Омогућена могућност ротирања екрана за све уређаје.
+  - Могућност избора прилагођених боја у подешавањима читача.
+
+- **Побољшани преводи:**
+  - Превод етимологије ГПТ ћаскања на матерњи језик (у подешавањима превода).
+
+- **Информације о књизи:**
+  - Година објављивања приказана је на картици књиге (ако је доступна).
+
+** Исправљање грешака:**
+- Побољшана тачност праћења трајања читања и времена сесије.
+- Решени проблеми са функцијом ""Оцени нас"" у одељку профила.""","**الميزات الجديدة:**
+- **تجربة القراءة:**
+  - أضفنا القدرة على تمييز آخر كلمة تم ترجمتها.
+  - الصور القابلة للنقر في الكتب.
+  - الخيار لاختيار كيفية تمييز الكلمات في النص: تحت الخط، الخلفية، أو لون النص.
+  - القدرة على ترجمة ونسخ الاقتباسات.
+  - أضفنا القدرة على نسخ النص المحدد في القارئ.
+
+- **اللغات الأصلية المضافة:**
+  - الكورية
+  - الإندونيسية
+  - الصربية
+
+- **الواجهة:**
+  - بعض التحسينات في تخطيط نسخة الجهاز اللوحي.
+  - تم تمكين دوران الشاشة لجميع الأجهزة.
+  - القدرة على اختيار الألوان المخصصة في إعدادات القارئ.
+
+- **تحسينات الترجمة:**
+  - ترجمة أصول الكلمات في الدردشة GPT إلى اللغة الأم (في إعدادات الترجمة).
+
+- **معلومات الكتاب:**
+  - يتم عرض سنة النشر على بطاقة الكتاب (إذا كانت متوفرة).
+
+**إصلاحات الأخطاء:**
+- تحسين دقة تتبع مدة القراءة ووق","**Nove značajke:**
+- **Iskustvo čitanja:**
+  - Dodana mogućnost isticanja posljednje prevedene riječi.
+  - Klikabilne slike u knjigama.
+  - Mogućnost odabira načina isticanja riječi u tekstu: podcrtavanje, pozadina ili boja teksta.
+  - Mogućnost prevođenja i kopiranja citata.
+  - Dodana mogućnost kopiranja odabranog teksta u čitaču.
+
+- **Dodani izvorni jezici:**
+  - Korejski
+  - Indonezijski
+  - Srpski
+
+- **Sučelje:**
+  - Neke optimizacije izgleda verzije za tablet.
+  - Omogućena rotacija zaslona za sve uređaje.
+  - Mogućnost odabira prilagođenih boja u postavkama čitača.
+
+- **Poboljšani prijevodi:**
+  - Prijevod etimologije GPT razgovora na izvorni jezik (u postavkama prijevoda).
+
+- **Informacije o knjizi:**
+  - Godina izdanja prikazuje se na kartici knjige (ako je dostupno).
+
+**Ispravci pogrešaka:**
+- Poboljšana točnost praćenja trajanja čitanja i vremena sesije.
+- Ispravljene pogreške s funkcijom ""ocijenite nas"" u odjeljku profila.""""""","**Yeni Xüsusiyyətlər:**
+- **Oxuma Təcrübəsi:**
+  - Son tərcümə edilmiş sözü vurğulamaq imkanı əlavə edildi.
+  - Kitablarda kliklənə bilən şəkillər.
+  - Sözlərin mətn içində necə vurğulanacağını seçmək: alt xətt, fon, və ya mətn rəngi.
+  - Sitatları tərcümə etmək və kopyalamaq imkanı.
+  - Oxucuda seçilmiş mətni kopyalamaq imkanı əlavə edildi.
+
+- **Əlavə edilmiş Ana Dillər:**
+  - Koreys
+  - İndoneziyalı
+  - Serb
+
+- **İnterfeys:**
+  - Tablet versiyası düzəndə bəzi optimallaşdırmalar.
+  - Bütün cihazlar üçün ekranın fırlanması aktivləşdirildi.
+  - Oxucu parametrlərində fərdi rəngləri seçmək imkanı.
+
+- **Təkmilləşdirilmiş Tərcümələr:**
+  - GPT söhbət etimologiyasının ana dilə tərcüməsi (tərcümə parametrlərində).
+
+- **Kitab Məlumatı:**
+  - Nəşr ili kitab kartında göstərilir (əgər mövcuddursa).
+
+**Səhvlərin Aradan Qaldırılması:**
+- Oxuma müddətinin və sessiya vaxtının izlənmə dəqiqliyi təkmilləşdirildi.
+- Profil bölməsindəki ""bizi qiymətləndirin"" funksiyası ilə bağlı problemlər həll edildi.""""""","**Նոր հատկություններ՝**
+- **Ընթերցման փորձ՝**
+  - Ավելացրել ենք վերջին թարգմանված բառը ընդդեմակեցնելու հնարավորությունը։
+  - Կտտացվող պատկերներ գրքերում։
+  - Հնարավորություն ընտրել, ինչպես են բարդացվում բառերը տեքստում՝ ընտրելով տակագիծ, ֆոն կամ տեքստի գույնը։
+  - Հնարավորություն թա","**Nieuwe Functies:**
+- **Leeservaring:**
+  - De mogelijkheid toegevoegd om het laatst vertaalde woord te markeren.
+  - Klikbare afbeeldingen in boeken.
+  - Optie om te kiezen hoe woorden in de tekst worden gemarkeerd: onderstrepen, achtergrond of tekstkleur.
+  - Mogelijkheid om citaten te vertalen en te kopiëren.
+  - De mogelijkheid toegevoegd om geselecteerde tekst in de lezer te kopiëren.
+
+- **Toegevoegde Moedertalen:**
+  - Koreaans
+  - Indonesisch
+  - Servisch
+
+- **Interface:**
+  - Enkele optimalisaties van de tabletversie layout.
+  - Schermrotatie ingeschakeld voor alle apparaten.
+  - Mogelijkheid om aangepaste kleuren te kiezen in de lezerinstellingen.
+
+- **Verbeterde Vertalingen:**
+  - Vertaling van GPT-chat etymologie naar moedertaal (in vertaalinstellingen).
+
+- **Boekinformatie:**
+  - Publicatiejaar wordt weergegeven op de boekkaart (indien beschikbaar).
+
+**Bug Fixes:**
+- Verbeterde nauwkeurigheid van het volgen van leesduur en sessietijd.
+- Problemen opgelost met de functie ""beoordeel ons"" in het profielgedeelte.""""""","**Νέες Λειτουργίες:**
+- **Εμπειρία Ανάγνωσης:**
+  - Προστέθηκε η δυνατότητα να επισημαίνεται η τελευταία μεταφρασμένη λέξη.
+  - Εικόνες που μπορούν να πατηθούν στα βιβλία.
+  - Επιλογή για το πώς θα επισημαίνονται οι λέξεις στο κείμενο: υπογράμμιση, φόντο ή χρώμα κειμένου.
+  - Δυνατότητα μετάφρασης και αντιγραφής αποσπασμάτων.
+  - Προστέθηκε η δυνατότητα αντιγραφής επιλεγμένου κειμένου στον αναγνώστη.
+
+- **Προστέθηκαν Φυσικές Γλώσσες:**
+  - Κορεατικά
+  - Ινδονησιακά
+  - Σερβικά
+
+- **Διεπαφή:**
+  - Ορισμένες βελτιστοποιήσεις της διάταξης της έκδοσης για tablet.
+  - Ε","**新機能:**
+- **読書体験:**
+  - 最後に翻訳された単語を強調表示する機能を追加しました。
+  - 本の中のクリック可能な画像。
+  - テキスト内の単語の強調表示方法を選択するオプション：下線、背景、またはテキストの色。
+  - 引用文の翻訳とコピーの能力。
+  - リーダー内で選択したテキストをコピーする機能を追加しました。
+
+- **追加されたネイティブ言語:**
+  - 韓国語
+  - インドネシア語
+  - セルビア語
+
+- **インターフェース:**
+  - タブレット版のレイアウトの一部の最適化。
+  - すべてのデバイスでの画面回転を有効にしました。
+  - リーダーの設定でカスタム色を選択する能力。
+
+- **翻訳の改善:**
+  - GPTチャットの語源を母国語に翻訳（翻訳設定内）。
+
+- **書籍情報:**
+  - 出版年が書籍カードに表示されます（利用可能な場合）。
+
+**バグ修正:**
+- 読書の継続時間とセッション時間の追跡の精度を向上させました。
+- プロファイルセクションの「私たちを評価する」機能の問題を修正しました。","**Új funkciók:**
+- **Olvasási élmény:**
+  - Hozzáadtuk a legutóbb lefordított szó kiemelésének lehetőségét.
+  - Kattintható képek a könyvekben.
+  - Lehetőség arra, hogy válassza ki, hogyan legyenek kiemelve a szavak a szövegben: aláhúzás, háttér vagy szövegszín.
+  - Idézetek lefordításának és másolásának lehetősége.
+  - Hozzáadtuk a kiválasztott szöveg másolásának lehetőségét az olvasóban.
+
+- **Hozzáadott anyanyelvi nyelvek:**
+  - Koreai
+  - Indonéz
+  - Szerb
+
+- **Felület:**
+  - Néhány optimalizáció a tablet verzió elrendezésében.
+  - A képernyő forgatásának engedélyezése minden eszközön.
+  - Egyéni színek választásának lehetősége az olvasó beállításaiban.
+
+- **Javított fordítások:**
+  - A GPT chat etimológiájának fordítása anyanyelvi nyelvre (a fordítási beállításokban).
+
+- **Könyv információ:**
+  - A kiadás éve megjelenik a könyvkártyán (ha elérhető).
+
+**Hibajavítások:**
+- Javítottuk az olvasási időtartam és a munkamenet időtartamának nyomon követésének pontosságát.
+- Javítottuk a ""értékeljen minket"" funkcióval kapcsolatos problémákat a profil szekcióban.","**Nové funkce:**
+- **Zážitek z čtení:**
+  - Přidána možnost zvýraznit poslední přeložené slovo.
+  - Klikatelné obrázky v knihách.
+  - Možnost vybrat, jak jsou slova v textu zvýrazněna: podtržením, pozadím nebo barvou textu.
+  - Možnost přeložit a kopírovat citáty.
+  - Přidána možnost kopírovat vybraný text v čtečce.
+
+- **Přidány rodné jazyky:**
+  - Korejština
+  - Indonéština
+  - Srbština
+
+- **Rozhraní:**
+  - Některé optimalizace rozložení verze pro tablety.
+  - Povolena rotace obrazovky pro všechna zařízení.
+  - Možnost vybrat vlastní barvy v nastavení čtečky.
+
+- **Vylepšené překlady:**
+  - Překlad etymologie GPT chatu do rodného jazyka (v nastavení překladu).
+
+- **Informace o knize:**
+  - Rok vydání je zobrazen na kartě knihy (pokud je k dispozici).
+
+**Opravy chyb:**
+- Vylepšena přesnost sledování doby čtení a doby sezení.
+- Opraveny problémy s funkcí ""hodnoťte nás"" v sekci profilu.","**Noi Funcționalități:**
+- **Experiența de Citire:**
+  - Adăugată capacitatea de a evidenția ultimul cuvânt tradus.
+  - Imagini clicabile în cărți.
+  - Opțiunea de a alege cum sunt evidențiate cuvintele în text: subliniere, fundal sau culoarea textului.
+  - Capacitatea de a traduce și copia citate.
+  - Adăugată capacitatea de a copia textul selectat în cititor.
+
+- **Adăugate Limbi Native:**
+  - Coreeană
+  - Indoneziană
+  - Sârbă
+
+- **Interfață:**
+  - Unele optimizări ale aspectului versiunii pentru tabletă.
+  - Activată rotația ecranului pentru toate dispozitivele.
+  - Capacitatea de a alege culori personalizate în setările cititorului.
+
+- **Traduceri Îmbunătățite:**
+  - Traducerea etimologiei chat-ului GPT în limba nativă (în setările de traducere).
+
+- **Informații despre Carte:**
+  - Anul publicării este afișat pe cartea de vizită (dacă este disponibil).
+
+**Corecții de Erori:**
+- Îmbunătățită acuratețea urmăririi duratei de citire și a timpului de sesiune.
+- Rezolvate problemele cu funcția ""evaluați-ne"" în secțiunea de profil.""""""","**Các Tính Năng Mới:**
+- **Trải Nghiệm Đọc:**
+  - Thêm khả năng tô sáng từ được dịch cuối cùng.
+  - Hình ảnh có thể nhấp trong sách.
+  - Tùy chọn chọn cách tô sáng từ trong văn bản: gạch dưới, nền, hoặc màu văn bản.
+  - Khả năng dịch và sao chép trích dẫn.
+  - Thêm khả năng sao chép văn bản đã chọn trong trình đọc.
+
+- **Thêm Ngôn Ngữ Bản Địa:**
+  - Hàn Quốc
+  - Indonesia
+  - Serbia
+
+- **Giao Diện:**
+  - Một số tối ưu hóa bố cục phiên bản máy tính bảng.
+  - Đã kích hoạt chức năng xoay màn hình cho tất cả các thiết bị.
+  - Khả năng chọn màu tùy chỉnh trong cài đặt trình đọc.
+
+- **Cải Thiện Dịch:**
+  - Dịch ngữ ngữ GPT chat sang ngôn ngữ bản địa (trong cài đặt dịch).
+
+- **Thông Tin Sách:**
+  - Năm xuất bản được hiển thị trên thẻ sách (nếu có).
+
+**Sửa Lỗi:**
+- Cải thiện độ chính xác của việc theo dõi thời gian đọc và thời gian phiên.
+- Sửa các vấn đề với chức năng ""đánh giá chúng tôi"" trong phần hồ sơ.","**Нові функції:**
+- **Досвід читання:**
+  - Додана можливість виділяти останнє перекладене слово.
+  - Клацабельні зображення у книгах.
+  - Можливість вибрати, як виділяти слова в тексті: підкреслення, фон або колір тексту.
+  - Можливість перекладати та копіювати цитати.
+  - Додана можливість копіювати вибраний текст у читачі.
+
+- **Додані рідні мови:**
+  - Корейська
+  - Індонезійська
+  - Сербська
+
+- **Інтерфейс:**
+  - Деякі оптимізації макета версії для планшетів.
+  - Увімкнено обертання екрану для всіх пристроїв.
+  - Можливість вибрати власні кольори в налаштуваннях читача.
+
+- **Покращені переклади:**
+  - Переклад етимології GPT-чату на рідну мову (у налаштуваннях перекладу).
+
+- **Інформація про книгу:**
+  - Рік публікації відображається на картці книги (якщо доступно).
+
+**Виправлення помилок:**
+- Покращена точність відстеження тривалості читання та часу сесії.
+- В","**新功能：**
+- **阅读体验：**
+  - 增加了突出显示最后翻译单词的功能。
+  - 书中的图片可以点击。
+  - 可以选择如何在文本中突出显示单词：下划线、背景或文字颜色。
+  - 可以翻译和复制引用。
+  - 增加了在阅读器中复制选定文本的功能。
+
+- **新增母语：**
+  - 韩语
+  - 印尼语
+  - 塞尔维亚语
+
+- **界面：**
+  - 对平板电脑版本布局进行了一些优化。
+  - 所有设备都启用了屏幕旋转功能。
+  - 可以在阅读器设置中选择自定义颜色。
+
+- **改进的翻译：**
+  - 将GPT聊天词源翻译为母语（在翻译设置中）。
+
+- **书籍信息：**
+  - 在书卡上显示出版年份（如果有的话）。
+
+**错误修复：**
+- 提高了跟踪阅读时长和会话时间的准确性。
+- 修复了个人资料部分的“给我们评分”功能的问题。","**Novas Funcionalidades:**
+- **Experiência de Leitura:**
+  - Adicionada a capacidade de destacar a última palavra traduzida.
+  - Imagens clicáveis nos livros.
+  - Opção para escolher como as palavras são destacadas no texto: sublinhado, fundo ou cor do texto.
+  - Capacidade de traduzir e copiar citações.
+  - Adicionada a capacidade de copiar o texto selecionado no leitor.
+
+- **Idiomas Nativos Adicionados:**
+  - Coreano
+  - Indonésio
+  - Sérvio
+
+- **Interface:**
+  - Algumas otimizações do layout da versão para tablet.
+  - Habilitada a rotação de tela para todos os dispositivos.
+  - Capacidade de escolher cores personalizadas nas configurações do leitor.
+
+- **Traduções Melhoradas:**
+  - Tradução da etimologia do chat GPT para o idioma nativo (nas configurações de tradução).
+
+- **Informações do Livro:**
+  - O ano de publicação é exibido no cartão do livro (se disponível).
+
+**Correções de Bugs:**
+- Melhorada a precisão do rastreamento da duração da leitura e do tempo de sessão.
+- Corrigidos problemas com a função ""avaliação"" na seção de perfil.""""""","**Nowe funkcje:**
+- **Doświadczenie z czytaniem:**
+  - Dodano możliwość podświetlenia ostatnio przetłumaczonego słowa.
+  - Klikalne obrazy w książkach.
+  - Opcja wyboru, jak słowa są podświetlane w tekście: podkreślenie, tło lub kolor tekstu.
+  - Możliwość tłumaczenia i kopiowania cytatów.
+  - Dodano możliwość kopiowania wybranego tekstu w czytniku.
+
+- **Dodane języki ojczyste:**
+  - Koreański
+  - Indonezyjski
+  - Serbski
+
+- **Interfejs:**
+  - Pewne optymalizacje układu wersji na tablet.
+  - Włączono obrót ekranu dla wszystkich urządzeń.
+  - Możliwość wyboru niestandardowych kolorów w ustawieniach czytnika.
+
+- **Ulepszone tłumaczenia:**
+  - Tłumaczenie etymologii czatu GPT na język ojczysty (w ustawieniach tłumaczenia).
+
+- **Informacje o książce:**
+  - Rok publikacji jest wyświetlany na karcie książki (jeśli dostępny).
+
+**Naprawa błędów:**
+- Poprawiono dokładność śledzenia czasu trwania czytania i czasu sesji.
+- Naprawiono problemy z funkcją ""ocen nas"" w sekcji profilu.""""""","**Yeni Özellikler:**
+- **Okuma Deneyimi:**
+  - Son çevrilen kelimeyi vurgulama yeteneği eklendi.
+  - Kitaplardaki resimlere tıklanabilir.
+  - Metindeki kelimelerin nasıl vurgulanacağını seçme seçeneği: altı çizili, arka plan veya metin rengi.
+  - Alıntıları çevirme ve kopyalama yeteneği.
+  - Okuyucuda seçilen metni kopyalama yeteneği eklendi.
+
+- **Yerel Diller Eklendi:**
+  - Korece
+  - Endonezyaca
+  - Sırpça
+
+- **Arayüz:**
+  - Tablet sürümü düzeninin bazı optimizasyonları.
+  - Tüm cihazlar için ekran döndürme özelliği etkinleştirildi.
+  - Okuyucu ayarlarında özel renkler seçme yeteneği.
+
+- **İyileştirilmiş Çeviriler:**
+  - GPT sohbet etimolojisinin yerel dile çevirisi (çeviri ayarlarında).
+
+- **Kitap Bilgileri:**
+  - Yayın yılı, kitap kartında görüntülenir (mevcutsa).
+
+**Hata Düzeltmeleri:**
+- Okuma süresi ve oturum süresi izleme doğruluğu iyileştirildi.
+- Profil bölümündeki ""bizi değerlendir"" işleviyle ilgili sorunlar giderildi.""""""","**Nuove Funzionalità:**
+- **Esperienza di Lettura:**
+  - Aggiunta la possibilità di evidenziare l'ultima parola tradotta.
+  - Immagini cliccabili nei libri.
+  - Opzione per scegliere come evidenziare le parole nel testo: sottolineatura, sfondo o colore del testo.
+  - Possibilità di tradurre e copiare citazioni.
+  - Aggiunta la possibilità di copiare il testo selezionato nel lettore.
+
+- **Lingue Native Aggiunte:**
+  - Coreano
+  - Indonesiano
+  - Serbo
+
+- **Interfaccia:**
+  - Alcune ottimizzazioni del layout della versione per tablet.
+  - Abilitata la rotazione dello schermo per tutti i dispositivi.
+  - Possibilità di scegliere colori personalizzati nelle impostazioni del lettore.
+
+- **Traduzioni Migliorate:**
+  - Traduzione dell'etimologia della chat GPT nella lingua nativa (nelle impostazioni di traduzione).
+
+- **Informazioni sul Libro:**
+  - L'anno di pubblicazione è visualizzato sulla scheda del libro (se disponibile).
+
+**Correzioni di Bug:**
+- Migliorata l'accuratezza del monitoraggio della durata della lettura e del tempo di sessione.
+- Risolti problemi con la funzione ""valutaci"" nella sezione del profilo.""""""","**Nuevas Características:**
+- **Experiencia de Lectura:**
+  - Añadida la capacidad de resaltar la última palabra traducida.
+  - Imágenes clicables en los libros.
+  - Opción para elegir cómo se resaltan las palabras en el texto: subrayado, fondo o color del texto.
+  - Capacidad para traducir y copiar citas.
+  - Añadida la capacidad de copiar el texto seleccionado en el lector.
+
+- **Idiomas Nativos Añadidos:**
+  - Coreano
+  - Indonesio
+  - Serbio
+
+- **Interfaz:**
+  - Algunas optimizaciones del diseño de la versión para tablet.
+  - Activada la rotación de pantalla para todos los dispositivos.
+  - Capacidad para elegir colores personalizados en la configuración del lector.
+
+- **Traducciones Mejoradas:**
+  - Traducción de la etimología del chat GPT al idioma nativo (en la configuración de la traducción).
+
+- **Información del Libro:**
+  - El año de publicación se muestra en la tarjeta del libro (si está disponible).
+
+**Correcciones de Errores:**
+- Mejorada la precisión del seguimiento de la duración de la lectura y el tiempo de sesión.
+- Solucionados problemas con la función ""califícanos"" en la sección de perfil.""""""","**Nouvelles Fonctionnalités :**
+- **Expérience de Lecture :**
+  - Ajout de la possibilité de surligner le dernier mot traduit.
+  - Images cliquables dans les livres.
+  - Option pour choisir comment les mots sont surlignés dans le texte : soulignement, arrière-plan, ou couleur du texte.
+  - Possibilité de traduire et de copier des citations.
+  - Ajout de la possibilité de copier le texte sélectionné dans le lecteur.
+
+- **Ajout de Langues Natives :**
+  - Coréen
+  - Indonésien
+  - Serbe
+
+- **Interface :**
+  - Quelques optimisations de la disposition de la version tablette.
+  - Activation de la rotation de l'écran pour tous les appareils.
+  - Possibilité de choisir des couleurs personnalisées dans les paramètres du lecteur.
+
+- **Amélioration des Traductions :**
+  - Traduction de l'étymologie du chat GPT dans la langue native (dans les paramètres de traduction).
+
+- **Informations sur le Livre :**
+  - L'année de publication est affichée sur la carte du livre (si disponible).
+
+**Corrections de Bugs :**
+- Amélioration de la précision du suivi de la durée de lecture et du temps de session.
+- Correction des problèmes avec la fonction ""évaluez-nous"" dans la section du profil.""""""","**Neue Funktionen:**
+- **Leseerfahrung:**
+  - Hinzugefügt die Fähigkeit, das zuletzt übersetzte Wort zu markieren.
+  - Klickbare Bilder in Büchern.
+  - Option zur Auswahl, wie Wörter im Text hervorgehoben werden: Unterstreichen, Hintergrund oder Textfarbe.
+  - Möglichkeit, Zitate zu übersetzen und zu kopieren.
+  - Hinzugefügt die Fähigkeit, ausgewählten Text im Leser zu kopieren.
+
+- **Hinzugefügte Muttersprachen:**
+  - Koreanisch
+  - Indonesisch
+  - Serbisch
+
+- **Benutzeroberfläche:**
+  - Einige Optimierungen des Tablet-Version-Layouts.
+  - Aktivierte Bildschirmrotation für alle Geräte.
+  - Möglichkeit, benutzerdefinierte Farben in den Lesereinstellungen auszuwählen.
+
+- **Verbesserte Übersetzungen:**
+  - Übersetzung der GPT-Chat-Etymologie in die Muttersprache (in den Übersetzungseinstellungen).
+
+- **Buchinformationen:**
+  - Das Erscheinungsjahr wird auf der Buchkarte angezeigt (falls verfügbar).
+
+**Fehlerbehebungen:**
+- Verbesserte Genauigkeit der Erfassung der Lesedauer und der Sitzungszeit.
+- Behobene Probleme mit der Funktion ""Bewerten Sie uns"" im Profilbereich.""""""","**Новые функции:**
+- **Чтение:**
+  - Добавлена возможность выделения последнего переведенного слова.
+  - Кликабельные изображения в книгах.
+  - Возможность выбора способа выделения слов в тексте: подчеркивание, фон или цвет текста.
+  - Возможность перевода и копирования цитат.
+  - Добавлена возможность копирования выделенного текста в ридере.
+
+- **Добавлены нативные языки:**
+  - Корейский
+  - Индонезийский
+  - Сербский
+
+- **Интерфейс:**
+  - Некоторые оптимизации версии для планшетов.
+  - Включена возможность поворота экрана для всех устройств.
+  - Возможность выбора пользовательских цветов в настройках ридера.
+
+- **Улучшенные переводы:**
+  - Перевод этимологии GPT-чата на родной язык (в настройках перевода).
+
+- **Информация о книге:**
+  - Год публикации отображается на карточке книги (если доступно).
+
+**Исправление ошибок:**
+- Улучшена точность отслеживания продолжительности чтения и времени сессии.
+- Исправлены проблемы с функцией ""оцените нас"" в разделе профиля."
+wt.offline_lang_not_supported,Language: {{lang}} is not supporte,Bahasa: {{lang}} tidak didukung,언어: {{lang}}는 지원되지 않습니다,Језик: {{lang}} није подржан,اللغة: {{lang}} غير مدعومة,Jezik: {{lang}} nije podržan,Dil: {{lang}} dəstəklənmir,Լեզուն՝ {{lang}} չի աջակցվում,Taal: {{lang}} wordt niet ondersteund,Η γλώσσα: {{lang}} δεν υποστηρίζεται,言語: {{lang}}はサポートされていません,A(z) {{lang}} nyelv nem támogatott,Jazyk: {{lang}} není podporován,Limba: {{lang}} nu este suportată,Ngôn ngữ: {{lang}} không được hỗ trợ,Мова: {{lang}} не підтримується,语言：{{lang}}不受支持,Idioma: {{lang}} não é suportado,Język: {{lang}} nie jest obsługiwany,Dil: {{lang}} desteklenmiyor,Lingua: {{lang}} non è supportata,Idioma: {{lang}} no es compatible,Langue : {{lang}} n'est pas prise en charge,Sprache: {{lang}} wird nicht unterstützt,Язык: {{lang}} не поддерживается
+book_statistic_screen.last_opened,Last opened,Terakhir dibuka,마지막으로 열림,Последње откриће,آخر فتح,Posljednji put otvoreno,Son açılan,Վերջին անգամ բացված,Laatst geopend,Τελευταία άνοιξη,最後に開いた,Utoljára megnyitva,Naposledy otevřeno,Ultima deschidere,Lần mở cuối cùng,Останній раз відкрито,最后打开,Última abertura,Ostatnio otwarte,Son açılan,Ultima apertura,Última apertura,Dernière ouverture,Zuletzt geöffnet,Последнее открытие
+highlight_selector.text_color_type,Text color,Warna teks,텍스트 색상,Боја текста,لون النص,Boja teksta,Mətn rəngi,Տեքստի գույնը,Tekstkleur,Χρώμα κειμένου,テキストの色,Szövegszín,Barva textu,Culoare text,Màu văn bản,Колір тексту,文字颜色,Cor do texto,Kolor tekstu,Metin rengi,Colore del testo,Color del texto,Couleur du texte,Textfarbe,Цвет текста
+highlight_selector.background_type,Background,Latar Belakang,배경,Позадина,الخلفية,Pozadina,Arxa fon,Ֆոն,Achtergrond,Φόντο,背景,Háttér,Pozadí,Fundal,Nền,Фон,背景,Fundo,Tło,Arka Plan,Sfondo,Fondo,Arrière-plan,Hintergrund,Фон
+highlight_selector.underline_type,Underline,Garis Bawah,밑줄,Подвлачење,تسطير,Podcrtaj,Altıxət,ընդգծել,Onderstrepen,Υπογράμμιση,下線,Aláhúzás,Podtržení,Subliniere,Gạch dưới,Підкреслення,下划线,Sublinhado,Podkreślenie,Altı Çizili,Sottolineato,Subrayar,Souligner,Unterstreichen,Подчеркнуть
+highlight_selector.title,Highlight type,Jenis Sorotan,하이라이트 유형,Тип избора,نوع التمييز,Vrsta isticanja,Vurğulama növü,Ընտրանքի տեսակ,Type markering,Τύπος επισήμανσης,ハイライトの種類,Kiemelés típusa,Typ zvýraznění,Tip de evidențiere,Loại nổi bật,Тип виділення,高亮类型,Tipo de destaque,Typ podświetlenia,Vurgu türü,Tipo di evidenziazione,Tipo de resaltado,Type de surlignage,Hervorhebungstyp,Тип выделения
+bs.downloading_images,Downloading images...,Mengunduh gambar...,이미지 다운로드 중...,Отпремање слика...,جاري تحميل الصور...,Preuzimanje slika...,Şəkillər yüklənir...,Նկարների բեռնում...,Afbeeldingen downloaden...,Λήψη εικόνων...,画像をダウンロード中...,Képek letöltése...,Stahování obrázků...,Descărcare imagini...,Đang tải hình ảnh...,Завантаження зображень...,正在下载图片...,Baixando imagens...,Pobieranie obrazów...,Görüntüler indiriliyor...,Scaricamento immagini...,Descargando imágenes...,Téléchargement des images...,Bilder herunterladen...,Загрузка изображений...
+custom_color_bottom_sheet.cancel,Cancel,Batal,취소,Отказивање,إلغاء,Otkaži,Ləğv et,Չեղարկել,Annuleren,Ακύρωση,キャンセル,Mégse,Zrušit,Anulează,Hủy,Скасувати,取消,Cancelar,Anuluj,İptal,Annulla,Cancelar,Annuler,Abbrechen,Отмена
+custom_color_bottom_sheet.select_color,Select,Pilih,선택,Изаберите,اختر,Odaberi,Seçin,Ընտրել,Selecteer,Επιλέξτε,選択,Válasszon,Vybrat,Selectează,Chọn,Вибрати,选择,Selecionar,Wybierz,Seç,Seleziona,Seleccionar,Sélectionner,Auswählen,Выбрать
+select_color_button.cancel_button,Cancel,Batal,취소,Отказивање,إلغاء,Otkaži,Ləğv et,Չեղարկել,Annuleren,Ακύρωση,キャンセル,Mégse,Zrušit,Anulează,Hủy,Скасувати,取消,Cancelar,Anuluj,İptal,Annulla,Cancelar,Annuler,Abbrechen,Отмена
+select_color_button.select_button,Select,Pilih,선택,Изаберите,اختر,Odaberi,Seçin,Ընտրել,Selecteer,Επιλέξτε,選択,Válassz,Vybrat,Selectează,Chọn,Вибрати,选择,Selecionar,Wybierz,Seç,Seleziona,Seleccionar,Sélectionner,Auswählen,Выбрать
+translation_settings_screen.not_allowed_options_mix,this combination of translation types is not supported,kombinasi jenis terjemahan ini tidak didukung,이 번역 유형의 조합은 지원되지 않습니다,ова комбинација типова превода није подржана,هذا المزيج من أنواع الترجمة غير مدعوم,ova kombinacija vrsta prijevoda nije podržana,bu tərcümə növlərinin kombinasiyası dəstəklənmir,այս թարգմանության տեսակների համադրությունը չի աջակցվում,deze combinatie van vertaaltypes wordt niet ondersteund,αυτός ο συνδυασμός τύπων μετάφρασης δεν υποστηρίζεται,この翻訳タイプの組み合わせはサポートされていません,ez a fordítási típusok kombinációja nem támogatott,tato kombinace typů překladu není podporována,această combinație de tipuri de traducere nu este acceptată,sự kết hợp này của các loại dịch không được hỗ trợ,ця комбінація типів перекладу не підтримується,不支持此种翻译类型的组合,essa combinação de tipos de tradução não é suportada,ta kombinacja typów tłumaczeń nie jest obsługiwana,bu çeviri türlerinin kombinasyonu desteklenmiyor,questa combinazione di tipi di traduzione non è supportata,esta combinación de tipos de traducción no está soportada,ce mélange de types de traduction n'est pas pris en charge,Diese Kombination von Übersetzungstypen wird nicht unterstützt,эта комбинация типов перевода не поддерживается
+translation_settings_screen.highlight_translated_word_after_translation,Highlight the last translated word,Sorot kata terakhir yang diterjemahkan,마지막으로 번역된 단어 강조,Истицање последњег преведеног реч,تسليط الضوء على آخر كلمة تم ترجمتها,Istakni posljednju prevedenu riječ,Son çevrilen sözü vurğula,Ընդգծեք վերջին թարգմանված բառը,Markeer het laatst vertaalde woord,Επισημάνετε την τελευταία μεταφρασμένη λέξη,最後に翻訳した単語を強調表示する,Jelölje ki az utoljára lefordított szót,Zvýrazněte poslední přeložené slovo,Evidențiază ultimul cuvânt tradus,Nổi bật từ cuối cùng đã dịch,Виділіть останнє перекладене слово,高亮显示最后翻译的单词,Destaque a última palavra traduzida,Podświetl ostatnio przetłumaczone słowo,Son çevrilen kelimeyi vurgula,Evidenzia l'ultima parola tradotta,Resaltar la última palabra traducida,Mettez en surbrillance le dernier mot traduit,Heben Sie das zuletzt übersetzte Wort hervor,Выделение последнего переведенного слово
+translation_settings_screen.highlight_translated_word_after_translation_subtitle,highlight the last translated word in the text after closing the translation window,sorot kata terakhir yang diterjemahkan dalam teks setelah menutup jendela terjemahan,번역 창을 닫은 후 텍스트에서 마지막으로 번역된 단어를 강조하세요,истакните последњу преведену реч у тексту након затварања прозора за превод,تسليط الضوء على آخر كلمة تم ترجمتها في النص بعد إغلاق نافذة الترجمة,istaknite posljednju prevedenu riječ u tekstu nakon zatvaranja prozora za prijevod,tərcümə pəncərəsini bağladıqdan sonra mətnə son tərcümə olunan sözü vurun,ընդգծեք վերջին թարգմանված բառը տեքստում թարգմանության պատուհանը փակելուց հետո,markeer het laatst vertaalde woord in de tekst na het sluiten van het vertaalvenster,επισημάνετε την τελευταία μεταφρασμένη λέξη στο κείμενο μετά το κλείσιμο του παραθύρου μετάφρασης,翻訳ウィンドウを閉じた後に、テキスト内の最後に翻訳された単語を強調表示します,kiemeli az utolsó lefordított szót a szövegben a fordítási ablak bezárása után,zvýrazněte poslední přeložené slovo v textu po zavření překladového okna,evidențiați ultimul cuvânt tradus în text după închiderea ferestrei de traducere,tô sáng từ cuối cùng được dịch trong văn bản sau khi đóng cửa sổ dịch,виділіть останнє перекладене слово в тексті після закриття вікна перекладу,在关闭翻译窗口后，高亮显示文本中最后翻译的单词,destaque a última palavra traduzida no texto após fechar a janela de tradução,podświetl ostatnie przetłumaczone słowo w tekście po zamknięciu okna tłumaczenia,çeviri penceresini kapattıktan sonra metindeki son çevrilen kelimeyi vurgulayın,evidenzia l'ultima parola tradotta nel testo dopo aver chiuso la finestra di traduzione,resalte la última palabra traducida en el texto después de cerrar la ventana de traducción,mettez en évidence le dernier mot traduit dans le texte après la fermeture de la fenêtre de traduction,"heben Sie das zuletzt übersetzte Wort im Text hervor, nachdem das Übersetzungsfenster geschlossen wurde",выделять последнее переведенное слово в тексте после закрытия окна перевода
+bottom_menu_selection.text_copied,Copied,Tersalin,복사됨,Копирано,تم النسخ,Kopirano,Kopyalandı,Պատճենված,Gekopieerd,Αντιγράφηκε,コピーしました,Másolva,Zkopírováno,Copiat,Đã sao chép,Скопійовано,已复制,Copiado,Skopiowane,Kopyalandı,Copiato,Copiado,Copié,Kopiert,Скопировано
+quote.copy_button,Copy,Salin,복사,Копирај,نسخ,Kopiraj,Kopyala,Պատճենել,Kopiëren,Αντιγραφή,コピー,Másolás,Kopírovat,Copiază,Sao chép,Копіювати,复制,Copiar,Kopiuj,Kopyala,Copia,Copiar,Copier,Kopieren,Копировать
+quote.text_copied,Copied,Tersalin,복사됨,Копирано,تم النسخ,Kopirano,Kopyalandı,Պատճենված,Gekopieerd,Αντιγράφηκε,コピーしました,Másolva,Zkopírováno,Copiat,Đã sao chép,Скопійовано,已复制,Copiado,Skopiowane,Kopyalandı,Copiato,Copiado,Copié,Kopiert,Скопировано
+bs.publish_year,Year of publication,Tahun publikasi,출판 연도,Година објављивања,سنة النشر,Godina objave,Nəşr ili,Հրատարակման տարի,Jaar van publicatie,Έτος έκδοσης,出版年,Kiadás éve,Rok publikace,Anul publicării,Năm xuất bản,Рік публікації,出版年份,Ano de publicação,Rok publikacji,Yayınlanma yılı,Anno di pubblicazione,Año de publicación,Année de publication,Jahr der Veröffentlichung,Год публикации

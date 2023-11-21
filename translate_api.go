@@ -51,7 +51,7 @@ func (t Translator) check() (*req, error) {
 		"accept",
 		"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 	)
-	request.Header.Set("accept-encoding", "gzip, deflate, br")
+	// request.Header.Set("accept-encoding", "gzip, deflate, br")
 	request.Header.Set("accept-language", "en-US,en;q=0.9")
 	request.Header.Set("sec-ch-ua", "\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"")
 	request.Header.Set("sec-ch-ua-mobile", "?1")
@@ -163,8 +163,10 @@ func (t Translator) translateV1(text string, from string, to string) (*Translate
 		return nil, fmt.Errorf("Error! Parsing data 2 to json.")
 	}
 	body.Set("f.req", string(fReq))
-	var payload = bytes.NewBufferString(body.Encode())
-	request, err := http.NewRequest("POST", u.String(), payload)
+	encode := body.Encode()
+	var payload = bytes.NewBufferString(encode)
+	s := u.String()
+	request, err := http.NewRequest("POST", s, payload)
 	if err != nil {
 		return nil, fmt.Errorf("Error! Initial Request.")
 	}
